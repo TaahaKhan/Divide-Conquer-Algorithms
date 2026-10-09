@@ -1,7 +1,3 @@
-Based on the uploaded files, here is the README documentation for the project.
-
------
-
 # DAA Project 2025: Divide & Conquer Algorithms
 
 This project implements various algorithms based on the **Divide & Conquer** paradigm. It consists of a series of foundational exercises (Part 1) and a main GUI application (Parts 2, 3, & 4) that visualizes the **Closest Pair of Points** and **Karatsuba Multiplication** algorithms.
